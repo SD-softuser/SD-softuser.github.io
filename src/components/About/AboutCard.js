@@ -10,8 +10,8 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Sanyog Mahajan </span>
             from <span className="purple"> Pune, India.</span>
-            <br /> I am a final year student pursuing Bachelors of Engineering
-            in Information Technology at D. Y. Patil College of Engineering Akurdi, Pune.
+            <br /> I have completed Bachelors of Engineering
+            in Information Technology from D. Y. Patil College of Engineering Akurdi, Pune. in may 2024
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
