@@ -12,9 +12,9 @@ import {
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiUbuntu />
-      </Col>
+      // <Col xs={4} md={2} className="tech-icons">
+      //   <SiUbuntu />
+      // </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
       </Col>
